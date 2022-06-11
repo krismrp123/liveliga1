@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1641567202~acl=/hls-p/ingest_8565_*/*~hmac=b42ff470d39a8eb4a7e80311dcce925f0f7467b74a68035e24fc95a161d34dba/hls-p/ingest_8565_720p/index.m3u8
