@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x720
-https://pull.jljiapu.com/leisu/1117614147129325.m3u8?auth_key=1655661660-0-0-d26f0d0ac0d5f77e280aa1f5b48f0053&m=1
+https://etslive-2-vidio-com.akamaized.net/exp=1655728349~acl=/hls-p/ingest_9111_*/*~hmac=e735063b825ec547a7853f05c63fdaece77ebe5d6dbbc35beaf53918abb947ff/hls-p/ingest_9111_480p/index.m3u8
