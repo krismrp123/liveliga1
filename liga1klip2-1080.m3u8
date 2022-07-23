@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://d1hrsmxx9qco64.cloudfront.net/out/v1/a4f405a6c18249bd9635eb7324bf1773/index_3.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1658588809~acl=/hls-p/ingest_9304_*/*~hmac=aca0656ad24ddd225b3534d91c511b4e331a56e852de2ebcb65788be4b9d3069/hls-p/ingest_9304_1080p/index.m3u8
